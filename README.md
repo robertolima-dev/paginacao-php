@@ -1,4 +1,4 @@
-##Paginação com PHP orientado a objeto##
+## Paginação com PHP orientado a objeto
 
 **Autor: Roberto Lima**
 
